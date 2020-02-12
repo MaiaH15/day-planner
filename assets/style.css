@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.border {
+    border: none ;
+    border-top: 5px solid black ;
+}
+
+.input-group-text {
+    width: 80px;
+}
+
+.btn {
+    width: 80px;
+}
+
+.input-group {
+    height: 80px;
+    margin-bottom: 220px;
+}
+
+.input-group > .form-control {
+    height: 80px;
+}
+
+.past {
+    background-color: gold;
+    color: white;
+}
+
+.present {
+    background-color:black;
+    color: white;
+}
+
+.future {
+    background-color: white;
+    color:black;
+}
